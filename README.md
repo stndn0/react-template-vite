@@ -1,2 +1,3 @@
-# react-template-vite
-This is a barebones react project that serves as a template/foundation for all your future react projects.
+# Instructions
+To start the application use ``npm i`` and then``npm run dev``
+
